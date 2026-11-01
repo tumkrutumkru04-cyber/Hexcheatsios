@@ -1,8 +1,7 @@
-*.pem
-*.key
-*.keystore
-*.jks
-licenses.db
+.pem
+.key
+.jks
+.keystore
 .env
-__pycache__/
-.venv/
+PRIVATE_KEY
+LICENSE_PRIVATE_KEY
